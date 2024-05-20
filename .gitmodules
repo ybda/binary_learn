@@ -1,0 +1,3 @@
+[submodule "lib/cute_random"]
+	path = lib/cute_random
+	url = https://github.com/ybda/cute_random.git
